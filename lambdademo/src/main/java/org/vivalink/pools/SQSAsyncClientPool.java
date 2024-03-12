@@ -18,8 +18,8 @@ import java.util.Map;
 
 public class SQSAsyncClientPool {
 
-    public static final String ACCESS_KEY = "AKIAW3MEEMHH66CO2XH3";
-    public static final String SECRET_KEY = "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";
+    public static final String ACCESS_KEY = "XXXX";
+    public static final String SECRET_KEY = "XXXX";
     public static  final String QUEUE_URL = "https://sqs.ap-northeast-1.amazonaws.com/471112901071/test-demo";
     public static final Integer MAX_CONNECTION = 100;
     private static final SdkAsyncHttpClient httpClient;

@@ -16,8 +16,8 @@ import java.util.Map;
 
 public class SQSClientPool {
 
-    public static final String ACCESS_KEY = "AKIAW3MEEMHH66CO2XH3";
-    public static final String SECRET_KEY = "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";
+    public static final String ACCESS_KEY = "XXXX";
+    public static final String SECRET_KEY = "XXXX";
     public static final Integer MAX_CONNECTION = 100;
     private static final SdkHttpClient httpClient;
 
